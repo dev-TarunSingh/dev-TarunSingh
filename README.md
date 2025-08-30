@@ -88,7 +88,7 @@ Fun interactive dice game focusing on **React state management & UI design**.
 
 ![Tarun’s GitHub stats](https://github-readme-stats.vercel.app/api?username=TarunSinghChauhan&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunSinghChauhan&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunSinghChauhan&layout=compact&theme=radical&hide=C,Tcl)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=TarunSinghChauhan&theme=radical&border_radius=5)  
 
