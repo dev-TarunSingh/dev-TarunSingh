@@ -1,107 +1,123 @@
-# 👋 Hi, I’m Tarun Singh Chauhan  
+# Tarun Singh Chauhan
 
-🎓 **Recent BCA Graduate** | 💻 **Full-Stack Developer** | 📱 **React Native Enthusiast**  
+**MCA · Computer Networks & Cybersecurity · OSINT · Full-Stack Development**
 
-I’m passionate about building scalable applications, solving problems with clean code, and adapting quickly to new technologies. My focus is on **full-stack development**, **cloud-native solutions**, and creating impactful projects that empower real users.  
-
----
-
-## 🚀 Skills & Tech Stack  
-
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
-
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  
-
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
-
-**Cloud & DevOps:**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)  
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-181717?logo=git&logoColor=white)  
+📍 India &nbsp;|&nbsp; ✉️ devtarunsingh01@gmail.com &nbsp;|&nbsp; 🐍 5★ Python — HackerRank
 
 ---
 
-## 🏆 Achievements & Certifications  
+## About
 
-- 🥇 **5★ Gold in Python (HackerRank)**  
-- 📜 **Google AI Essentials – Google (2024)**  
-- 🎓 **CS50x Introduction to Computer Science – Harvard (2023)**  
+Cybersecurity-focused MCA student specialising in **Computer Networks & Security** with hands-on exposure to OSINT methodologies, penetration testing, log analysis, and secure system design. I build things that are both functional and resilient — from full-stack mobile apps to Docker-sandboxed execution environments.
 
----
-
-## 💡 Projects  
-
-🔹 **[ActLocal – Hyperlocal Service Marketplace](#)**  
-📱 React Native, Node.js, MongoDB (GeoJSON + Geospatial)  
-Empowers local service providers with **profiles, geolocation search, bookings, payments, and real-time chat**.  
-
-🔹 **[Cloud Drive – Photo Storage System](#)**  
-☁️ MERN Stack  
-A secure cloud drive for storing & organizing photos with a scalable backend.  
-
-🔹 **[Portfolio – Personal Website](#)**  
-🌐 React.js, Tailwind CSS  
-My personal developer portfolio showcasing projects, skills, and achievements.  
-
-🔹 **[Python PDF Password Cracker](#)** – 🏆 **Competition Winner**  
-Algorithmic script that won 1st place in a programming contest.  
-
-🔹 **[Python Voice Assistant](#)**  
-Voice-controlled assistant for automating daily tasks using Python libraries.  
-
-🔹 **[React Dice Game](#)**  
-Fun interactive dice game focusing on **React state management & UI design**.  
+Currently pursuing opportunities in **Cyber Intelligence, OSINT Analysis, SOC, and Network Security** roles.
 
 ---
 
-## 💼 Work Experience  
+## Skills
 
-**Software Development Intern – Penthara Technologies** (Jan 2025 – Feb 2025)  
-- Built & customized **WordPress websites** (themes, plugins, responsive designs).  
-- Improved performance via **optimization, debugging, and testing**.  
-- Collaborated in **Agile teams**, gaining exposure to real-world CMS development & Git workflows.  
+**OSINT & Recon**
+`Google Dorking` `theHarvester` `Shodan` `Recon-ng` `WHOIS / DNS Enumeration` `SOCMINT` `HaveIBeenPwned` `DeHashed`
 
----
+**Security & Tools**
+`Nmap / Zenmap` `Wireshark` `Burp Suite` `Kali Linux` `Metasploitable` `Vulnerability Assessment` `OWASP Top 10` `Log Analysis` `Incident Response Basics`
 
-## 🎓 Education  
+**Networking**
+`TCP/IP` `OSI Model` `VLANs` `DHCP / DNS` `VPN` `Subnetting` `Cisco Packet Tracer` `Wireshark`
 
-- **BCA – CGC Mohali (2022 – 2025)** | GPA: 7.51/10  
-- **Class 12th (2021)** – 87% | **Class 10th (2019)** – 75%  
+**Programming & Automation**
+`Python` `Bash Scripting` `JavaScript` `C++`
 
----
+**Full-Stack / DevOps**
+`React.js` `React Native` `Node.js` `Express.js` `MongoDB` `REST APIs` `Docker` `Git / GitHub`
 
-## 📊 GitHub Stats  
-
-![Tarun’s GitHub stats](https://github-readme-stats.vercel.app/api?username=TarunSinghChauhan&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunSinghChauhan&layout=compact&theme=radical&hide=C,Tcl)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=TarunSinghChauhan&theme=radical&border_radius=5)  
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TarunSinghChauhan&theme=radical)  
+**Compliance & Frameworks**
+`ISO 27001 / ISMS` `NIST CSF` `SOC 2 Overview` `OWASP Top 10`
 
 ---
 
-## 📫 Connect with Me  
+## Projects
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/TarunSinghChauhan)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](#)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](#)  
+### 🔍 [OSINT Reconnaissance Automation Tool](https://github.com/dev-TarunSingh)
+Python automation script aggregating WHOIS records, DNS enumeration, email breach lookups, and Google Dork query generation. Designed for structured intelligence gathering with OPSEC best practices.
+`Python` `OSINT` `DNS` `Automation`
 
 ---
 
-✨ *“Code is not just about solving problems — it’s about creating impact at scale.”*  
+### 🔒 [Tamper-Evident Logging System](https://github.com/dev-TarunSingh)
+Secure logging system using **SHA-256 hash chaining** to ensure log integrity and tamper detection. Includes verification and monitoring mechanisms aligned with forensic analysis and SOC audit workflows.
+`Python` `SHA-256` `Forensics` `Audit`
+
+---
+
+### 🐳 [Secure Sandbox Execution System](https://github.com/dev-TarunSingh)
+AST-based static analysis + Docker container isolation for safely executing untrusted user input. Enforces restrictions on imports, system calls, and unauthorized resource access.
+`Python` `Docker` `AST` `Secure Design`
+
+---
+
+### 🌐 [Enterprise Network Simulation — Cisco Packet Tracer](https://github.com/dev-TarunSingh)
+Designed a full enterprise network including VLAN segmentation, DHCP configuration, router/switch setup, subnetting, and secure inter-network communication.
+`Cisco Packet Tracer` `VLANs` `TCP/IP` `Routing & Switching`
+
+---
+
+### 📱 [ActLocal – Hyperlocal Service Marketplace](https://github.com/dev-TarunSingh)
+Full-stack mobile application connecting local service providers with customers. Geolocation-based search using GeoJSON indexing, secure authentication, booking workflows, payment integration, and real-time chat.
+`React Native` `Node.js` `Express.js` `MongoDB` `REST APIs`
+
+---
+
+## Certifications
+
+| Year | Certification | Issuer |
+|------|--------------|--------|
+| 2026 | NPTEL (Elite) – Cryptography and Network Security | NPTEL |
+| 2026 | Introduction to Cybersecurity | Cisco |
+| 2026 | AWS Academy Graduate – Machine Learning Foundations | AWS |
+| 2025 | Intensive Cybersecurity Bootcamp – Kali Linux, VA & Enumeration | Bootcamp |
+| 2025 | 5★ Gold Badge in Python | HackerRank |
+| 2024 | Google AI Essentials | Google |
+| 2023 | CS50 – Introduction to Computer Science | Harvard University |
+
+---
+
+## Work Experience
+
+**Software Development Intern — Penthara Technologies** *(Jan 2025 – Feb 2025)*
+- Developed and customized WordPress websites; identified and resolved basic security misconfigurations.
+- Assisted in testing, debugging, optimization, and deployment of client projects.
+- Collaborated in Agile workflows using Git/GitHub; gained exposure to secure development practices.
+
+---
+
+## Education
+
+| Period | Degree | Institution |
+|--------|--------|-------------|
+| 2025 – Present | MCA – Industrial Oriented Program in Computer Networks & Cybersecurity | Galgotias University |
+| 2022 – 2025 | BCA | CGC Mohali · CGPA 7.51/10 |
+| 2021 | Class 12th CBSE | 87% |
+| 2019 | Class 10th CBSE | 75% |
+
+---
+
+## GitHub Stats
+
+![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-TarunSingh&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-TarunSingh&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dev-TarunSingh&theme=github-dark-blue&hide_border=true)
+
+---
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-dev--TarunSingh-181717?style=flat&logo=github)](https://github.com/dev-TarunSingh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--tarunsingh-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/dev-tarunsingh)
+[![Email](https://img.shields.io/badge/Email-devtarunsingh01@gmail.com-EA4335?style=flat&logo=gmail)](mailto:devtarunsingh01@gmail.com)
+
+---
+
+*Security is not a feature — it's a foundation.*
