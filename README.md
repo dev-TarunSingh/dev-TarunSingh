@@ -38,12 +38,6 @@ Currently pursuing opportunities in **Cyber Intelligence, OSINT Analysis, SOC, a
 
 ## Projects
 
-### 🔍 [OSINT Reconnaissance Automation Tool](https://github.com/dev-TarunSingh)
-Python automation script aggregating WHOIS records, DNS enumeration, email breach lookups, and Google Dork query generation. Designed for structured intelligence gathering with OPSEC best practices.
-`Python` `OSINT` `DNS` `Automation`
-
----
-
 ### 🔒 [Tamper-Evident Logging System](https://github.com/dev-TarunSingh)
 Secure logging system using **SHA-256 hash chaining** to ensure log integrity and tamper detection. Includes verification and monitoring mechanisms aligned with forensic analysis and SOC audit workflows.
 `Python` `SHA-256` `Forensics` `Audit`
@@ -53,12 +47,6 @@ Secure logging system using **SHA-256 hash chaining** to ensure log integrity an
 ### 🐳 [Secure Sandbox Execution System](https://github.com/dev-TarunSingh)
 AST-based static analysis + Docker container isolation for safely executing untrusted user input. Enforces restrictions on imports, system calls, and unauthorized resource access.
 `Python` `Docker` `AST` `Secure Design`
-
----
-
-### 🌐 [Enterprise Network Simulation — Cisco Packet Tracer](https://github.com/dev-TarunSingh)
-Designed a full enterprise network including VLAN segmentation, DHCP configuration, router/switch setup, subnetting, and secure inter-network communication.
-`Cisco Packet Tracer` `VLANs` `TCP/IP` `Routing & Switching`
 
 ---
 
